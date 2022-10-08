@@ -11,11 +11,6 @@
 ## Long-term Projects
 * [Tabs Aside](https://github.com/blueputty01/tabs-aside)
 
-## Hackathons
-* [Hack3](https://github.com/blueputty01/hack3) _3rd place_
-* [Montyhacks](https://github.com/blueputty01/ai-farming-client)
-* [Montyhacks](https://github.com/blueputty01/ai-farming-server)
-
 ## Utilities
 * [PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking)
 * [Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
@@ -28,6 +23,11 @@
 #### Institution Research 🏫
 * [👩‍University Data Scraper](https://github.com/blueputty01/college-data-collection)
 * [👩‍⚕️FREIDA Residency Program Database Scraper](https://github.com/blueputty01/ama-scraping)
+
+## Hackathons
+* [Hack3](https://github.com/blueputty01/hack3) _3rd place_
+* [Montyhacks](https://github.com/blueputty01/ai-farming-client)
+* [Montyhacks](https://github.com/blueputty01/ai-farming-server)
 
 ## Templates
 * [React/Express config](https://github.com/blueputty01/react-express-template)
