@@ -7,12 +7,18 @@
 </div>
 
 ## Featured
+
+### Long-term Projects
+* [Tabs Aside](https://github.com/blueputty01/tabs-aside)
+
 ### Hackathons
-* [Hack3](https://github.com/blueputty01/hack3)
+* [Hack3](https://github.com/blueputty01/hack3) _3rd place_
 * [Montyhacks](https://github.com/blueputty01/ai-farming-client)
 * [Montyhacks](https://github.com/blueputty01/ai-farming-server)
 
 ### Utilities
+* [PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking)
+
 #### Anki 🗃️
 * [Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki)
 * [Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki)
@@ -21,3 +27,7 @@
 #### Institution Research 🏫
 * [👩‍University Data Scraping](https://github.com/blueputty01/college-data-collection)
 * [👩‍⚕️FREIDA Residency Program Database Scraping](https://github.com/blueputty01/ama-scraping)
+
+### Templates
+(React/Express config)[https://github.com/blueputty01/react-express-template]
+(create-react-app as a template repository)[https://github.com/blueputty01/create-react-app-template]
