@@ -29,5 +29,5 @@
 * [👩‍⚕️FREIDA Residency Program Database Scraping](https://github.com/blueputty01/ama-scraping)
 
 ### Templates
-[React/Express config](https://github.com/blueputty01/react-express-template)
-[create-react-app as a template repository](https://github.com/blueputty01/create-react-app-template)
+* [React/Express config](https://github.com/blueputty01/react-express-template)
+* [create-react-app as a template repository](https://github.com/blueputty01/create-react-app-template)
