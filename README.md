@@ -18,6 +18,7 @@
 
 ## Utilities
 * [PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking)
+* [Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
 
 #### Anki 🗃️
 * [Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki)
@@ -25,8 +26,8 @@
 * [Anki note styling](https://github.com/blueputty01/anki-card-styles)
 
 #### Institution Research 🏫
-* [👩‍University Data Scraping](https://github.com/blueputty01/college-data-collection)
-* [👩‍⚕️FREIDA Residency Program Database Scraping](https://github.com/blueputty01/ama-scraping)
+* [👩‍University Data Scraper](https://github.com/blueputty01/college-data-collection)
+* [👩‍⚕️FREIDA Residency Program Database Scraper](https://github.com/blueputty01/ama-scraping)
 
 ## Templates
 * [React/Express config](https://github.com/blueputty01/react-express-template)
