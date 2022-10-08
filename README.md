@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueputty01&layout=compact" />
 </div>
 
-## Featured
+## Featured 📑
 
 ### Long-term Projects
 * [Tabs Aside](https://github.com/blueputty01/tabs-aside)
