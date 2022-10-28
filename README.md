@@ -20,7 +20,7 @@
 * [Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki)
 * [Anki note styling](https://github.com/blueputty01/anki-card-styles)
 
-#### Institution Research 🏫
+#### Academic Institution Research 🏫
 * [👩‍University Data Scraper](https://github.com/blueputty01/college-data-collection)
 * [👩‍⚕️FREIDA Residency Program Database Scraper](https://github.com/blueputty01/ama-scraping)
 
