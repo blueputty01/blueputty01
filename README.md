@@ -2,8 +2,8 @@
 # Hi there! 👋
 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats-bay-nu.vercel.app/api?username=blueputty01&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats-bay-nu.vercel.app/api/top-langs/?username=blueputty01&layout=compact&theme=transparent" />
+  <img height="165" align="left" src="https://github-readme-stats-bay-nu.vercel.app/api?username=blueputty01&count_private=true&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats-bay-nu.vercel.app/api/top-langs/?username=blueputty01&layout=compact" />
 </div>
 
 # Featured 📑
