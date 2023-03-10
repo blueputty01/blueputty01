@@ -17,14 +17,12 @@ I'm Alex, and here are some interesting things I've put together!
 ## Utilities
 [PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking), [Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
 
-#### Anki 🗃️
-[Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki), [Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki), [Anki note styling](https://github.com/blueputty01/anki-card-styles)
+**Anki (flashcard software)🗃️:** [Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki), [Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki), [Anki note styling](https://github.com/blueputty01/anki-card-styles)
 
-#### Academic Institution Research 🏫
-[👩‍University Data Scraper](https://github.com/blueputty01/college-data-collection), [👩‍⚕️FREIDA Residency Program Database Scraper](https://github.com/blueputty01/ama-scraping)
+**Academic Institution Research 🏫:** [👩‍University Data Scraper](https://github.com/blueputty01/college-data-collection), [👩‍⚕️FREIDA Residency Program Database Scraper](https://github.com/blueputty01/ama-scraping)
 
 ## Hackathons
-[Hack3](https://github.com/blueputty01/hack3) _3rd place_, [Montyhacks](https://github.com/blueputty01/ai-farming-client), [Montyhacks](https://github.com/blueputty01/ai-farming-server)
+[Hack3](https://github.com/blueputty01/hack3) (3rd), [Montyhacks](https://github.com/blueputty01/ai-farming-client), [Montyhacks](https://github.com/blueputty01/ai-farming-server)
 
 <!---
 ## Templates
