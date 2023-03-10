@@ -22,7 +22,7 @@ I'm Alex, and here are some interesting things I've put together!
 **Other:** [📑 PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking) | [📇 Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
 
 ### Other ❓
-**Hackathons 💭:** [Hack3](https://github.com/blueputty01/hack3) (3rd) | [Montyhacks client](https://github.com/blueputty01/ai-farming-client) | [Montyhacks server](https://github.com/blueputty01/ai-farming-server)
+**Hackathons 💭:** [Hack3](https://github.com/blueputty01/hack3) (🥉) | [Montyhacks client](https://github.com/blueputty01/ai-farming-client) | [Montyhacks server](https://github.com/blueputty01/ai-farming-server)
 
 <!---
 ## Templates
