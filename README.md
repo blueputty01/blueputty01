@@ -1,12 +1,15 @@
 
 # Hi there! 👋
 
+I'm Alex, and here are some interesting things I've put together!
+
+<!---
 <div>
   <img height="165" align="left" src="https://github-readme-stats-bay-nu.vercel.app/api?username=blueputty01&count_private=true&include_all_commits=true&show_icons=true" />
   <img src="https://github-readme-stats-bay-nu.vercel.app/api/top-langs/?username=blueputty01&layout=compact" />
 </div>
-
 # Featured 📑
+-->
 
 ## Long-term Projects
 * [Tabs Aside](https://github.com/blueputty01/tabs-aside)
