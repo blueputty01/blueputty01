@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Alex, and here are some interesting things I've put together!
+Here are some cool projects I've put together recently...
 
 <!---
 <div>
