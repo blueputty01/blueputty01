@@ -14,9 +14,9 @@ I'm Alex, and here are some interesting things I've put together!
 **Long-term:** [Tabs Aside](https://github.com/blueputty01/tabs-aside)
 
 ### Utilities ⚙️
-[PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking), [Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
+[📑 PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking), [📇 Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
 
-**Anki (flashcard software)🗃️:** [Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki), [Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki), [Anki note styling](https://github.com/blueputty01/anki-card-styles)
+**Anki (flashcard software)🗃️:** [📄 Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki), [💡 Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki), [🎨 Anki note styling](https://github.com/blueputty01/anki-card-styles)
 
 **Academic Institution Research 🏫:** [👩‍University Data Scraper](https://github.com/blueputty01/college-data-collection), [👩‍⚕️FREIDA Residency Program Database Scraper](https://github.com/blueputty01/ama-scraping)
 
