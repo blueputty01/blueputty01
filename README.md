@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-Here are some cool projects I've put together recently...
+Some notable projects of mine:
 
 <!---
 <div>
