@@ -23,7 +23,7 @@ Some notable open-source projects of mine:
 
 ### Highlighted open source contributions
 * [Sanity CMS Icon Picker Plugin](https://github.com/christopherafbjur/sanity-plugin-icon-picker/pull/47): added option to decrease resulting bundle size by nearly 100%
-* [Tab for a Cause](https://github.com/gladly-team/tab-extensions/issues/17): upgraded Chrome extension with 200k+ users to new Chrome API platform and added 
+* [Tab for a Cause](https://github.com/gladly-team/tab-extensions/issues/17): upgraded Chrome extension with 200k+ users to new Chrome API platform and added tab-action feature
 
 ### Other
 **💭 Hackathons:** 🥉 [Hack3](https://github.com/blueputty01/hack3) | [Montyhacks client](https://github.com/blueputty01/ai-farming-client) | [Montyhacks server](https://github.com/blueputty01/ai-farming-server)
