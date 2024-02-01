@@ -26,5 +26,5 @@ Some notable open-source projects of mine:
 * [Tab for a Cause](https://github.com/gladly-team/tab-extensions/issues/17): upgraded Chrome extension with 200k+ users to new Chrome API platform and added tab-action feature
 
 ### Other
-**💭 Hackathons:** 🥉 [Hack3](https://github.com/blueputty01/hack3) | [Montyhacks client](https://github.com/blueputty01/ai-farming-client) | [Montyhacks server](https://github.com/blueputty01/ai-farming-server)
+**💭 Hackathons:** [HoyaHacks '24](https://github.com/blueputty01/hoyahacks24) | 🥉 [Hack3](https://github.com/blueputty01/hack3) | [Montyhacks client](https://github.com/blueputty01/ai-farming-client) | [Montyhacks server](https://github.com/blueputty01/ai-farming-server)
 
