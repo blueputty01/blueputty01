@@ -11,8 +11,6 @@ Some notable open-source projects of mine:
 # Featured 📑
 -->
 
-**Long-term:** [Tabs Aside](https://github.com/blueputty01/tabs-aside)
-
 ### Public Utilities
 
 **🗃️ Anki (flashcard software):** [📄 Import Markdown into Anki](https://github.com/blueputty01/md-to-anki) | [📄 Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki) | [💡 Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki) | [🎨 Anki note styling](https://github.com/blueputty01/anki-card-styles)
