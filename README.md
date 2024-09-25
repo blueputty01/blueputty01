@@ -13,7 +13,7 @@ Some notable open-source projects of mine:
 
 **🏫 Academic Institution Research:** [👩‍University data scraper](https://github.com/blueputty01/college-data-collection) | [👩‍⚕️FREIDA Residency Program Database scraper](https://github.com/blueputty01/ama-scraping)
 
-**Other:** [📑 PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking) | [📇 Browser Extensions]([https://github.com/blueputty01/quizlet-downloader](https://github.com/blueputty01/browser-utility-extensions)) a collection of browser extensions I use day to day
+**Other:** [📑 PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking) | [📇 Browser Extensions](https://github.com/blueputty01/browser-utility-extensions) a collection of browser extensions I use day to day
 
 ### Highlighted open source contributions
 * [Sanity CMS Icon Picker Plugin](https://github.com/christopherafbjur/sanity-plugin-icon-picker/pull/47): added option to decrease resulting bundle size by nearly 100%
