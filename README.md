@@ -9,11 +9,11 @@ Some notable open-source projects of mine:
 
 ### Public Utilities
 
-**🗃️ Anki (flashcard software):** [📄 Import Markdown into Anki](https://github.com/blueputty01/md-to-anki) | [📄 Import Google Doc into Anki](https://github.com/blueputty01/google-doc-2-anki) | [💡 Import Notion page into Anki](https://github.com/blueputty01/notion-to-anki) | [🎨 Anki note styling](https://github.com/blueputty01/anki-card-styles)
+**Learning:** [📄 Parse Markdown to Anki Flashcards](https://github.com/blueputty01/md-to-anki) | [📇 Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
 
 **🏫 Academic Institution Research:** [👩‍University data scraper](https://github.com/blueputty01/college-data-collection) | [👩‍⚕️FREIDA Residency Program Database scraper](https://github.com/blueputty01/ama-scraping)
 
-**Other:** [📑 PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking) | [📇 Quizlet scraper](https://github.com/blueputty01/quizlet-downloader)
+**Other:** [📑 PDF bookmark tool](https://github.com/blueputty01/pdf-bookmarking) | [📇 Browser Extensions]([https://github.com/blueputty01/quizlet-downloader](https://github.com/blueputty01/browser-utility-extensions)) a collection of browser extensions I use day to day
 
 ### Highlighted open source contributions
 * [Sanity CMS Icon Picker Plugin](https://github.com/christopherafbjur/sanity-plugin-icon-picker/pull/47): added option to decrease resulting bundle size by nearly 100%
