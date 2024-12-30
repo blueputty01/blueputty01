@@ -29,4 +29,4 @@ Take a look around! Here's some good starters:
 hackathons:
 🏆 [HoyaHacks '24](https://github.com/blueputty01/hoyahacks24) | 🥉 [Hack3](https://github.com/blueputty01/hack3) | [Montyhacks client](https://github.com/blueputty01/ai-farming-client) | [Montyhacks server](https://github.com/blueputty01/ai-farming-server)
 
-check out [byalexyang.com](https://byalexyang.com) for more projects, reflections, and contacts!
+check out [byalexyang.com](https://byalexyang.com) for my (closed source) projects, reflections, and contacts!
