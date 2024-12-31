@@ -17,7 +17,7 @@ Take a look around! Here's some good starters:
 ### personal life:
 
 - [🏠 home server](https://github.com/blueputty01/home-server)
-- [dotfiles](https://github.com/blueputty01/dotfiles)
+- [⚙️ dotfiles](https://github.com/blueputty01/dotfiles)
 
 ### some (🔥 imo) merged open source PRs:
 
