@@ -21,8 +21,8 @@ Take a look around! Here's some good starters:
 
 ### some (🔥 imo) merged open source PRs:
 
-- [Sanity CMS Icon Picker Plugin](https://github.com/christopherafbjur/sanity-plugin-icon-picker/pull/47): added option to popular CMS plugin to decrease resulting bundle size by nearly 100%
-- [Tab for a Cause](https://github.com/gladly-team/tab-extensions/issues/17): upgraded Chrome extension with 200k+ users to new Chrome API platform and added tab-action feature
+- [🎨 Sanity CMS Icon Picker Plugin](https://github.com/christopherafbjur/sanity-plugin-icon-picker/pull/47): added option to popular CMS plugin to decrease resulting bundle size by nearly 100%
+- [➕ Tab for a Cause](https://github.com/gladly-team/tab-extensions/issues/17): upgraded Chrome extension with 200k+ users to new Chrome API platform and added tab-action feature
 
 ### other
 
