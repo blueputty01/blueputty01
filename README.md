@@ -1,23 +1,18 @@
-<!--<div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=blueputty01&count_private=true&include_all_commits=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueputty01&layout=compact" />
-</div>-->
-
 ## Hey there! 👋
 
 Take a look around! Here's some good starters:
 
 ### may be useful to you:
 
-- [📄 automating markdown notes to anki flashcards](https://github.com/blueputty01/md-to-anki)
-- [👩‍⚕️FREIDA residency program scraper](https://github.com/blueputty01/ama-scraping)
-- [📑 PDF bookmarking tool](https://github.com/blueputty01/pdf-bookmarking)
+- [📄 automatic flashcard creation](https://github.com/blueputty01/md-to-anki) automatically create flashcards from notes and import them into the Anki software. helps eliminate cramming
+- [👩‍⚕️FREIDA residency program scraper](https://github.com/blueputty01/ama-scraping) find the right medical residency programs for you!
+- [📑 PDF bookmarking tool](https://github.com/blueputty01/pdf-bookmarking) quickly create PDF bookmarks 
 - [📇 the browser extensions I use day to day](https://github.com/blueputty01/browser-utility-extensions)
 
 ### personal life:
 
-- [🏠 home server](https://github.com/blueputty01/home-server)
-- [⚙️ dotfiles](https://github.com/blueputty01/dotfiles)
+- [🏠 home server](https://github.com/blueputty01/home-server) runs my home automation system, image server, budget system, backups, and more! deployable anywhere via Docker compose
+- [⚙️ dotfiles](https://github.com/blueputty01/dotfiles) configs for i3, neovim, zsh and more
 
 ### some (🔥 imo) merged open source PRs:
 
