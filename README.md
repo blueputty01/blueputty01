@@ -5,7 +5,7 @@ Take a look around! Here's some good starters:
 ### ♥️ may be useful to you:
 
 - [🪟 window tiling manager](https://github.com/blueputty01/AeroSpace) in this Aerospace (i3-like tiling manager for macOS) fork, I've added at-a-glance indicators for workspace status in **Swift**, decreasing user mental load
-- [📄 automatic flashcard generator](https://github.com/blueputty01/md-to-anki) turn notes into Anki flashcards for magical spaced repetition using. say goodbye to cramming!
+- [📄 automatic flashcard generator](https://github.com/blueputty01/md-to-anki) turn notes into Anki flashcards for magical spaced repetition. say goodbye to cramming!
 - [👩‍⚕️FREIDA residency program scraper](https://github.com/blueputty01/ama-scraping) find the right medical residency programs for you!
 - [📑 PDF bookmarking tool](https://github.com/blueputty01/pdf-bookmarking) quickly create PDF bookmarks from a file's table of contents
 
