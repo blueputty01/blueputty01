@@ -1,10 +1,9 @@
 ## Hey there! 👋
 
-Take a look around! Here's some good starters:
+I'm currently studying computer science and math at the University of Maryland with a minor in sociology. Ex. full stack @ [Amazon](amazon.com), frontend with a bit of infra @ [Viasat](viasat.com), and frontend @ [Planetary](planetary.co).
 
-- [📞 DMV notifications](https://github.com/blueputty01/mvc-notifs/) stateful notification system for available DMV appointments 
-- [✍️ youtrack-google calendar synchronization](https://github.com/blueputty01/youtrack-gcal-sync) sync project management software issues and google calendar!
-- [🏠 home server](https://github.com/blueputty01/home-server) runs cloud applications and Home Assistant: complex multi-host networking configs deployable super quickly via multi-container **Docker** compose stacks
-- [⚙️ dotfiles](https://github.com/blueputty01/dotfiles) configs for i3, neovim, zsh and more
+Below, I've pinned some diverse repos I've worked on. I've also made minor contributions to Visual Studio Code documentation, the Mozilla Developer Network (MDN) Web Docs, and other open source projects. 
 
-check out [byalexyang.com](https://byalexyang.com) for my (closed source) projects, reflections, and contacts!
+Check out [byalexyang.com](https://byalexyang.com) for my freelance work, reflections, and contacts. 
+
+Hope you enjoy!
