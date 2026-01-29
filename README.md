@@ -8,4 +8,4 @@ Prev. full stack @ [Amazon](amazon.com), [Viasat](viasat.com), and frontend @ [P
 
 Check out [byalexyang.com](https://byalexyang.com) for my freelance work, reflections, and contacts. 
 
-Hope you enjoy!
+🚀
